@@ -29,12 +29,8 @@ import time
 from dataclasses import dataclass, field
 from urllib.parse import parse_qs, urlparse
 
-try:
-    import requests  # type: ignore[import]
-    from requests.exceptions import SSLError, ConnectionError, RequestException, Timeout  # type: ignore[import]
-except ImportError:
-    requests = None  # type: ignore[assignment]
-    ConnectionError = RequestException = Timeout = SSLError = Exception
+import requests
+from requests.exceptions import SSLError
 
 # ---------------------------------------------------------------------------
 # Data models
