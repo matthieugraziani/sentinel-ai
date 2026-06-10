@@ -1,0 +1,3 @@
+requests>=2.31.0
+# Optional — enables real AI analysis
+# anthropic>=0.25.0
