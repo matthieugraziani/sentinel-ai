@@ -1,4 +1,4 @@
-# 🛡️ SentinelAI
+# <p align="center">🛡️ SentinelAI </p>
 
 > AI-powered OWASP vulnerability scanner — passive HTTP analysis with zero dependencies beyond `requests`.
 
