@@ -13,7 +13,7 @@
 
 ---
 
-## What it does
+## What it does ?
 
 SentinelAI scans any HTTP(S) target and surfaces security misconfigurations mapped to the **OWASP Top 10 (2021)**. It works out-of-the-box with a deterministic mock AI engine, and upgrades automatically to real **Claude-powered analysis** when an `ANTHROPIC_API_KEY` is set.
 
