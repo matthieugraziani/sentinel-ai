@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![CI](https://github.com/matthieugraziani/sentinelai/actions/workflows/ci.yml/badge.svg)](https://github.com/matthieugraziani/sentinelai/actions)
+[![CI](https://github.com/matthieugraziani/sentinel-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/matthieugraziani/sentinel-ai/actions)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010%3A2021-red.svg)](https://owasp.org/Top10/)
